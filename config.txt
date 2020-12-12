@@ -1,6 +1,6 @@
-search_string = Your Search Here
+search_string = how to say babatunde
 min_watch = 10
 max_watch = 45
-wait_after = 15
-views = 100
+wait_after = 10
+views =500
 multicore = False
